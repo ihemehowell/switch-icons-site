@@ -14,7 +14,9 @@
     "lucide-react": "^1.31.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
-    "switch-icons": "file:../switch-icons",
+    "react-live": "^4.1.8",
+    "react-router-dom": "^7.18.2",
+    "switch-icons": "link:..\\switch-icons",
     "tailwindcss": "^4.3.3"
   },
   "devDependencies": {
