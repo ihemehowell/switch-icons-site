@@ -16,7 +16,7 @@
     "react-dom": "^19.2.8",
     "react-live": "^4.1.8",
     "react-router-dom": "^7.18.2",
-    "switch-icons": "link:..\\switch-icons",
+    "switch-icons": "^0.2.0",
     "tailwindcss": "^4.3.3"
   },
   "devDependencies": {
